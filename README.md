@@ -1,0 +1,2 @@
+# projekts
+Projekts prieks kursu
