@@ -23,7 +23,6 @@ if file!="":
         page=text[i]
         pos1=page.find(str(find_word))
         if(page.find(str(find_word))!=""):
-             #page_number.append(i)
              approximate_location.append(page[pos1:pos1+100])
              check=page[pos1:pos1+100]
              if(check!=""):
